@@ -1,0 +1,7 @@
+{
+    "name" : "jquery-migrate",
+    "version" : "1.0.0",
+    "main" : "jquery-migrate.js",
+    "dependencies": {
+    }
+}
