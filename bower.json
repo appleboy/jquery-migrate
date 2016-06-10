@@ -1,5 +1,5 @@
 {
     "name" : "jquery-migrate",
-    "version" : "1.4.0",
+    "version" : "3.0.0",
     "main" : "jquery-migrate.js"
 }
